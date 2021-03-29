@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/screamer/static/css/main.ee6d6624.chunk.css",
+    "main.js": "/screamer/static/js/main.ac2c43a4.chunk.js",
+    "main.js.map": "/screamer/static/js/main.ac2c43a4.chunk.js.map",
+    "runtime-main.js": "/screamer/static/js/runtime-main.88a007de.js",
+    "runtime-main.js.map": "/screamer/static/js/runtime-main.88a007de.js.map",
+    "static/css/2.150d169a.chunk.css": "/screamer/static/css/2.150d169a.chunk.css",
+    "static/js/2.970e3ac8.chunk.js": "/screamer/static/js/2.970e3ac8.chunk.js",
+    "static/js/2.970e3ac8.chunk.js.map": "/screamer/static/js/2.970e3ac8.chunk.js.map",
+    "static/js/3.18e8d747.chunk.js": "/screamer/static/js/3.18e8d747.chunk.js",
+    "static/js/3.18e8d747.chunk.js.map": "/screamer/static/js/3.18e8d747.chunk.js.map",
+    "index.html": "/screamer/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/screamer/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ee6d6624.chunk.css.map": "/screamer/static/css/main.ee6d6624.chunk.css.map",
+    "static/js/2.970e3ac8.chunk.js.LICENSE.txt": "/screamer/static/js/2.970e3ac8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88a007de.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.970e3ac8.chunk.js",
+    "static/css/main.ee6d6624.chunk.css",
+    "static/js/main.ac2c43a4.chunk.js"
+  ]
+}
